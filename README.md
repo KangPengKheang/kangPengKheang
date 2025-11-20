@@ -1,5 +1,5 @@
-<h1 align="center">Heyoo 👋, I'm Mr. CHHIN Visal</h1>
-<h3 align="center">Data Science 5th-year Student | AI & Machine Learning Enthusiast</h3>
+<h1 align="center">Heyoo 👋, I'm Mr. KANG Pengkheang</h1>
+<h3 align="center">Data Science | AI & Machine Learning Enthusiast</h3>
 
 <img align="right" alt="Coding" width="400" src="https://media.giphy.com/media/2IudUHdI075HL02Pkk/giphy.gif">
 
@@ -16,7 +16,7 @@ Data Engineering | Data Analytics | Machine Learning | Deep Learning | Large Lan
 Python | SQL | Data Warehousing | EDA | Statistical Modeling
 
 ### 📫 Reach me at  
-visalprogames@gmail.com
+kangpengkheang1122@gmail.com
 
 ---
 
